@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Render-Deployment-Demo
+
+This repository is intended for reference only. No code is intended to be used but is only there for example.
+
+The purpose of the repository is to be a sample site to practice deploying to Render. The live site can be found [here](https://render-demo-uj9t.onrender.com/)
+
+#### *This codebase is forked and derived from the original work by Thinkful*
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
